@@ -1,44 +1,14 @@
 ### Hi there 👋
 
-Meu nome é Wagner, sou Engenheiro Eletricista e trabalho atualmente com Gestão de Projetos para Automação de Subestações. Durante minha carreira tive a oportunidade de programar diversos equipamentos utilizando linguagem C, VB, Ladder ou linguagem própria de acordo com o fabricante, sempre me identifiquei muito com isso.
+My name is Wagner, enthusiastic about programming, I spent good part of my professional career programming equipment for substation automation, but I always wanted something more. After get contact with web development because a personal project, I realized that this is the career I want to pursue going forward.
 
-No momento estou querendo aprofundar mais os meus conhecimentos em programação e quem sabe até mudar de area se tornando um desenvolvedor web. Tudo que aprendi até agora foi estudando sozinho com apoio de cursos on-line e pesquisas na internet.
+Like every programmer, I'm always looking for the best solutions to programming problems using the most current tools available. For this I have been looking for courses that offer the development of modern solutions focusing on the most used frameworks in the market.
 
-Existe muito conteúdo on-line e é dificil escolher as melhores opções, por enquanto estou seguindo a seguinte trilha de treinalmentos:
-* :arrow_forward: Kenzie Academy - Minicurso de uma semana onde foi apresentado um projeto básico em HTML e CSS.
-* :arrow_forward: Rockeatseat - Módulo Discover - Curso de introdução a programação com conceitos básicos de HTML, CSS, JavaScript, Git e GitHub
-* :arrow_forward: freeCodeCamp - Responsive Web Design Certification - Curso de HTML e CSS utilizando conceitos amis modernos e responsivos.
-* :arrow_forward: freeCodeCamp - JavaScript Algorithm and Data Structures Certification - Curso de JavaScript com conceitos importantes da linguagem como  variables, arrays, objects, loops, and functions e intrrodução a Object Oriented Programing (OOP), and Functional Programing (FP).
-* :arrow_forward: Origamid - Web Design Completo - Desenvolvimento de Página web Bikcraft com conceitos de UX e UI, criação de Wireframe, uso de Adobe XD, aprofundamento de conceitos HTML e CSS e resursos para garantir a responsividade do site.
+I didn't have the opportunity to do some professional work yet, but below you can see something that I've done:
 
-Na sequencia devem ser: 
-* :fast_forward: CSS Flexbox, Grid Layout;
-* :fast_forward: More JavaScript and ES6;
-* :fast_forward: React, Redux, Sass, jQuery;
-* :fast_forward: Bootstrap; 
-* :fast_forward: Databases;
-* :fast_forward: Etc, never ends.... 
+* :arrow_forward: freeCodeCamp - Responsive Web Design Certification.
+* :arrow_forward: Origamid - Web Design Completo
+* :arrow_forward: Origamid - CSS flexbox
+* :arrow_forward: Origamid - CSS Flexgrid
 
-My resume and portifolio it's possible to be check at: https://wtaiatella.github.io/ 
-
-A medida que vou aprendendo e realizando novos curso, irei atualizar meus reposit´rorios com novos conteúdos, a ideia é manter um 
-
-
-
-
-
-
-<!--
-**wtaiatella/wtaiatella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My resume and portifolio it's possible to be check at: https://www.wtaiatella.com.br
