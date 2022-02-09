@@ -7,9 +7,9 @@
 
 Enthusiastic about programming, I spent good part of my professional career programming equipment for the automation of power plant substations, but I always wanted something more. After I had contact with web development because of a personal project, I realized that this is the career I want to pursue going forward.
 
-Like every programmer, I'm always looking for the best way to solve programming problems using the latest available tools. Considering this, I have been looking for courses that teach the development of modern solutions focusing on the most used frameworks in the market.
+I'm curious, I love technology and learning new things. Because I believe that leaving the comfort zone is what brings growth. I started my journey as a web developer in June 2020 and through my studies, I have already used some tools to develop some projects such as: HTML, CSS, JavaScript, React, Node and other topics about programming as 
 
-Actualy I'm working with SCADA System Development for Power Substation Control, but focus on learnig new tecnologies to change career...
+Excited about working with new technologies for web development as HTML, CSS, JavaScript, React, Node and other topics about programming as responsive web pages, APIs, Git an GitHub and react components documentation with Storybook.
 
 Here you can see some of pages I've developed during my studies.
 
