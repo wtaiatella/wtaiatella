@@ -5,11 +5,9 @@
 
 
 
-Enthusiastic about programming, I spent good part of my professional career programming equipment for the automation of power plant substations, but I always wanted something more. After I had contact with web development because of a personal project, I realized that this is the career I want to pursue going forward.
+On the start of my journey I worked as a substation automation programmer building robust solutions that would guarantee the safety of the electrical power system operation. At that time I developed control logics, performed tests on them and configured ethernet network architectures.
 
-I'm curious, I love technology and learning new things. Because I believe that leaving the comfort zone is what brings growth. I started my journey as a web developer in June 2020 and through my studies, I have already used some tools to develop some projects such as: HTML, CSS, JavaScript, React, Node and other topics about programming as 
-
-Excited about working with new technologies for web development as HTML, CSS, JavaScript, React, Node and other topics about programming as responsive web pages, APIs, Git an GitHub and react components documentation with Storybook.
+I’m an enthusiastic about programming, I love learning new things because I believe that leaving the comfort zone is what brings growth. Also, I'm excited about working with technologies for web development and I started my journey as a web developer in June 2021 that makes me already use some tools to develop some projects such as: HTML, CSS, JavaScript, React, Node and other topics about programming as responsive web pages, APIs, Git an GitHub and React Components and project documentation.
 
 Here you can see some of pages I've developed during my studies.
 
