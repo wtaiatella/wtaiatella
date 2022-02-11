@@ -22,7 +22,7 @@ The complete portifolio it's possible to be checked here: <a href="https://www.w
 <h3 align="left">Connect with me:</h3>
 
 <div>  
-  <a href="https://www.linkedin.com/in/wagner-elias-taiatella-369a746a/" target="_blank"><img src="https://img.shields.io/badge/-Wagner%20Taiatella-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wagner-elias-taiatella/" target="_blank"><img src="https://img.shields.io/badge/-Wagner%20Taiatella-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:wtaiatella@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-wtaiatella@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
  
 </div>
