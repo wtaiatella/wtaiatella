@@ -7,14 +7,16 @@
 
 On the start of my journey I worked as a substation automation programmer building robust solutions that would guarantee the safety of the electrical power system operation. At that time I developed control logics, performed tests on them and configured ethernet network architectures.
 
-I’m an enthusiastic about programming, I love learning new things because I believe that leaving the comfort zone is what brings growth. Also, I'm excited about working with technologies for web development and I started my journey as a web developer in June 2021 that makes me already use some tools to develop some projects such as: HTML, CSS, JavaScript, React, Node and other topics about programming as responsive web pages, APIs, Git an GitHub and React Components and project documentation.
+But some years ago I had the opportunity to learn a little about web development due a personal project and I loved it very much. After this, as a self-taught person with a lot of resilience, I became interested in the world of web development and in my spare time, with great help from Google and Developer Communities, I learned some important concepts about  HTML, CSS, Javascript, Node, React, Nextjs, responsive web pages, APIs, Git an GitHub and React Components
 
-Here you can see some of pages I've developed during my studies.
+Since then, I always search for new techniques to become a better programmer and to help me combine these technologies.
+
+Throughout my studies I developed several pages and gathered here in this portfolio the ones I consider most important. Hope you like!!
 
 <ul>
-<li><a href="https://www.wtaiatella.com.br/portifolio/origamid-bikcraft/index.html" target="_blank"> :arrow_forward: Origamid - Web Design Certification.</a> </li>
-<li><a href="https://www.wtaiatella.com.br/portifolio/origamid-gridlayout/index.html" target="_blank"> :arrow_forward: Origamid - CSS flexbox.</a> </li> 
-<li><a href="https://www.wtaiatella.com.br/portifolio/origamid-flexblog/index.html" target="_blank"> :arrow_forward: Origamid - CSS Flexgrid.</a> </li>
+<li><a href="https://html-css-js.wtaiatella.com.br/origamid/Web-Desing-Completo/bikcraft/" target="_blank"> :arrow_forward: Origamid - Web Design Certification.</a> </li>
+<li><a href="https://html-css-js.wtaiatella.com.br/origamid/CSS-Flexbox/flexblog/" target="_blank"> :arrow_forward: Origamid - CSS flexbox.</a> </li> 
+<li><a href="https://html-css-js.wtaiatella.com.br/origamid/CSS-GridLayout/" target="_blank"> :arrow_forward: Origamid - CSS Grid Layout.</a> </li>
 </ul>
 
 The complete portifolio it's possible to be checked here: <a href="https://www.wtaiatella.com.br" target="_blank"> https://www.wtaiatella.com.br</a>
